@@ -8,5 +8,5 @@ class Student < User
    def learn(know_string)
       self.knowledge << know_string
    end
-   
+
 end
